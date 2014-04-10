@@ -27,4 +27,6 @@ public class Window extends JFrame {
 				(screenSize.height - frameSize.height)/2);
 	}
 	
+	//waseem y maria
+	
 }
